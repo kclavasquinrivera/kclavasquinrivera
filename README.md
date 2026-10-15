@@ -6,16 +6,16 @@
 
 ## 👋 About me
 
-I started programming at **13** with web development and have been building ever since: websites, full-stack apps, desktop games, and competition robots. I like understanding how things work at every layer, from CSS transitions to computer vision.
+I started programming at age 13 with web development and haven't stopped learning since working on websites, full-stack applications, and desktop games, as well as participating in robotics competitions. I enjoy understanding how things work at every level, from CSS transitions to computer vision.
 
-- 🎓 Computer Science @ **MSOE** (Milwaukee, WI)
+- 🎓 Computer Science **MSOE** (Milwaukee, WI)
 - 🔭 Building **Jarvis**, a Python AI assistant powered by the Claude API and OpenCV
 - 📱 Learning **React Native**
 - 🤖 Former **FIRST Robotics** competitor (Java + OpenCV)
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ technologies
 
 <div align="center">
 
@@ -32,7 +32,6 @@ I started programming at **13** with web development and have been building ever
 | 🖥️ **Desktop** | C++ with Qt, packaged with Inno Setup installers |
 | ☕ **Java & Robotics** | Java, FIRST Robotics library, OpenCV |
 | 🧠 **AI / Vision** | Python, Claude API, OpenCV (face detection) |
-| 🧰 **Tools** | Git, GitHub, Vim (custom workspace) |
 
 ---
 
@@ -40,7 +39,7 @@ I started programming at **13** with web development and have been building ever
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🌟 [**Star Collector**](https://github.com/kclavasquinrivera/Star-Collector) | 2D browser platformer: jump, collect stars, dodge bombs that get harder over time | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Phaser](https://img.shields.io/badge/Phaser_3-8A2BE2) |
+| 🌟 [**Star Collector**](https://github.com/kclavasquinrivera/Star-Collector) | 2D browser platformer: jump, collect stars, dodge bombs that get harder over time | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | 📇 [**phpmysql**](https://github.com/kclavasquinrivera/phpmysql) | Contact manager with registration, hashed-password login, sessions and per-user CRUD | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | 🧱 [**Block-Game**](https://github.com/kclavasquinrivera/Block-Game) | Desktop game written in C++ | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
 | ⌨️ [**my_vim_workspace**](https://github.com/kclavasquinrivera/my_vim_workspace) | Custom Vim setup: shortcuts, integrated terminal, code runner, plugins | ![Vim](https://img.shields.io/badge/Vim_Script-019733?logo=vim&logoColor=white) |
@@ -78,12 +77,12 @@ I started programming at **13** with web development and have been building ever
 ## 🧭 My journey
 
 ```text
-Age 13 ──► Web development (HTML, CSS, JS)
-      └──► Front-end: Flexbox/Grid, transitions, React
-      └──► Back-end: PHP, MySQL, Node.js
-      └──► Desktop apps: C++, Qt, Inno Setup
+adolescents ──► Web development (HTML, CSS, JS)
+            └──► Front-end: Flexbox/Grid, transitions, React
+            └──► Back-end: PHP, MySQL, Node.js
+            └──► Desktop apps: C++, Qt, Inno Setup
 High school ──► AP Computer Science (Java) + FIRST Robotics (Java, OpenCV)
-Today ──► CS @ MSOE · React Native · Jarvis (Python + Claude API)
+Today ──► CS MSOE · React Native · Jarvis (Python + Claude API)
 ```
 
 ---
@@ -97,12 +96,6 @@ Today ──► CS @ MSOE · React Native · Jarvis (Python + Claude API)
 
 </div>
 
----
-
-<div align="center">
-
-💬 *Want to collaborate or have an internship opportunity? Reach out!*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt=""/>
 
-</div>
+
