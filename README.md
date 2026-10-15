@@ -19,7 +19,6 @@ I started programming at **13** with web development and have been building ever
 - 🔭 Building **Jarvis**, a Python AI assistant powered by the Claude API and OpenCV
 - 📱 Learning **React Native**
 - 🤖 Former **FIRST Robotics** competitor (Java + OpenCV)
-- 💼 **Looking for:** software development internship
 
 ---
 
