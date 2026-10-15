@@ -1,50 +1,120 @@
-# Hi, I'm Kevin 👋
+<div align="center">
 
-Computer Science student at **MSOE** who has been programming since age 13.
-I enjoy building things across the stack, from web apps to desktop games to robots.
-**Currently seeking a software development internship.**
+<img src="assets/banner.svg" alt="Kevin Clavasquin - Software Developer, CS student at MSOE" width="100%"/>
 
-## 🧭 My Journey
+<br/>
 
-- **Front-end:** Started with web development at 13. Mastered Flexbox/Grid,
-  positioning, media queries and CSS transitions. Favorite framework: **React**.
-  Currently learning **React Native**.
-- **Back-end:** Built full-stack apps with **PHP** and **MySQL**, and I'm working
-  with **Node.js**. Example: [phpmysql](https://github.com/kclavasquinrivera/phpmysql),
-  a contact manager with hashed-password login, session auth, and per-user CRUD.
-- **Desktop apps:** Built games and GUI apps in **C++ with Qt**, packaged with
-  **Inno Setup** installers.
-- **Java & Robotics:** Took AP Computer Science (Java) in high school and joined the
-  robotics club, competing in **FIRST**. My teammate and I wrote the robot's control
-  system in **Java** using the FIRST robotics library and **OpenCV**.
+**Computer Science student at MSOE · coding since age 13 · open to a software development internship**
 
-## 🤖 Currently Building
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU-PORTAFOLIO.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-27ae60?style=for-the-badge&logo=readthedocs&logoColor=white)](https://TU-LINK-AL-CV.pdf)
 
-**Jarvis**: a personal AI assistant in **Python** using the **Claude API** and
-**OpenCV** for face detection, designed to integrate with my own device ecosystem.
-*(In development)*
+</div>
 
-## 🛠️ Tech Stack
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+## 👋 About me
 
-## 🚀 Featured Projects
+I started programming at **13** with web development and have been building ever since: websites, full-stack apps, desktop games, and competition robots. I like understanding how things work at every layer, from CSS transitions to computer vision.
 
-- **[Star Collector](https://github.com/kclavasquinrivera/Star-Collector)**: 2D browser platformer built with JavaScript and Phaser 3
-- **[phpmysql](https://github.com/kclavasquinrivera/phpmysql)**: contact management app with PHP and MySQL
-- **[Block-Game](https://github.com/kclavasquinrivera/Block-Game)**: C++ game
-- **[my_vim_workspace](https://github.com/kclavasquinrivera/my_vim_workspace)**: custom Vim development environment
+- 🎓 Computer Science @ **MSOE** (Milwaukee, WI)
+- 🔭 Building **Jarvis**, a Python AI assistant powered by the Claude API and OpenCV
+- 📱 Learning **React Native**
+- 🤖 Former **FIRST Robotics** competitor (Java + OpenCV)
+- 💼 **Looking for:** software development internship
 
-## 📫 Let's Connect
+---
 
-[LinkedIn](https://linkedin.com/in/TU-USUARIO) · [Email](mailto:tu-correo@ejemplo.com)
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql&perline=7" alt="Web stack"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,qt,java,python,opencv,vim,git,github&perline=8" alt="Languages and tools"/>
+
+</div>
+
+| Area | What I use |
+|---|---|
+| 🎨 **Front-end** | React, JavaScript, HTML/CSS (Flexbox, Grid, positioning, media queries, transitions), React Native *(learning)* |
+| ⚙️ **Back-end** | PHP, MySQL, Node.js, session-based auth, password hashing |
+| 🖥️ **Desktop** | C++ with Qt, packaged with Inno Setup installers |
+| ☕ **Java & Robotics** | Java, FIRST Robotics library, OpenCV |
+| 🧠 **AI / Vision** | Python, Claude API, OpenCV (face detection) |
+| 🧰 **Tools** | Git, GitHub, Vim (custom workspace) |
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🌟 [**Star Collector**](https://github.com/kclavasquinrivera/Star-Collector) | 2D browser platformer: jump, collect stars, dodge bombs that get harder over time | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Phaser](https://img.shields.io/badge/Phaser_3-8A2BE2) |
+| 📇 [**phpmysql**](https://github.com/kclavasquinrivera/phpmysql) | Contact manager with registration, hashed-password login, sessions and per-user CRUD | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| 🧱 [**Block-Game**](https://github.com/kclavasquinrivera/Block-Game) | Desktop game written in C++ | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
+| ⌨️ [**my_vim_workspace**](https://github.com/kclavasquinrivera/my_vim_workspace) | Custom Vim setup: shortcuts, integrated terminal, code runner, plugins | ![Vim](https://img.shields.io/badge/Vim_Script-019733?logo=vim&logoColor=white) |
+
+<details>
+<summary><b>📚 More projects (Java, school work)</b></summary>
+<br/>
+
+- [Console-Games-Collection](https://github.com/kclavasquinrivera/Console-Games-Collection): dice games, card games, Yahtzee and Pig in Java
+- [Business-management-system-with-Java](https://github.com/kclavasquinrivera/Business-management-system-with-Java): department-based login, sales, inventory and finance (AP CSA project)
+- [Geometric-Pattern](https://github.com/kclavasquinrivera/Geometric-Pattern): rotating triangle animations using trigonometry and OOP
+
+</details>
+
+---
+
+## 🤖 Currently building: Jarvis
+
+> A personal AI assistant that lives in my own device ecosystem.
+
+```text
+ Camera ──► OpenCV (face detection) ──┐
+                                      ├──► Python core ──► Claude API ──► Jarvis
+ Voice / text input ──────────────────┘
+```
+
+- ✅ Face detection with OpenCV
+- 🔄 Claude API integration for conversation and reasoning
+- 🔜 Integration with the rest of my ecosystem
+
+*Status: in development.*
+
+---
+
+## 🧭 My journey
+
+```text
+Age 13 ──► Web development (HTML, CSS, JS)
+      └──► Front-end: Flexbox/Grid, transitions, React
+      └──► Back-end: PHP, MySQL, Node.js
+      └──► Desktop apps: C++, Qt, Inno Setup
+High school ──► AP Computer Science (Java) + FIRST Robotics (Java, OpenCV)
+Today ──► CS @ MSOE · React Native · Jarvis (Python + Claude API)
+```
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kclavasquinrivera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kclavasquinrivera&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 *Want to collaborate or have an internship opportunity? Reach out!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt=""/>
+
+</div>
