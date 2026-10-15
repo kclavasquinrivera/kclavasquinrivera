@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Kevin Clavasquin - Software Developer, CS student at MSOE" width="100%"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU-PORTAFOLIO.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-27ae60?style=for-the-badge&logo=readthedocs&logoColor=white)](https://TU-LINK-AL-CV.pdf)
+<img src="banner.svg" width="100%"/>
 
 </div>
 
