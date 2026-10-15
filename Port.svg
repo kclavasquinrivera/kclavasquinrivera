@@ -221,31 +221,6 @@
     <text x="871" y="358" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#4b9bd8">Python</text>
   </g>
 
-    <text x="60" y="394" class="mono" font-size="13" fill="#6e7681">/* flexbox · grid · transitions · keyframes · transforms · media queries */</text>
-
-    <!-- grid demo -->
-    <rect class="cell" x="1000" y="340" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.0s"/>
-  <rect class="cell" x="1020" y="340" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.18s"/>
-  <rect class="cell" x="1040" y="340" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.36s"/>
-  <rect class="cell" x="1060" y="340" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.54s"/>
-  <rect class="cell" x="1000" y="360" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.18s"/>
-  <rect class="cell" x="1020" y="360" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.36s"/>
-  <rect class="cell" x="1040" y="360" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.54s"/>
-  <rect class="cell" x="1060" y="360" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.72s"/>
-  <rect class="cell" x="1000" y="380" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.36s"/>
-  <rect class="cell" x="1020" y="380" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.54s"/>
-  <rect class="cell" x="1040" y="380" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.72s"/>
-  <rect class="cell" x="1060" y="380" width="14" height="14" rx="3" fill="url(#accent)" style="animation-delay:0.8999999999999999s"/>
-  
-    <text x="1000" y="408" class="mono" font-size="11" fill="#6e7681">display: grid</text>
-
-    <!-- spinner demo -->
-    <g>
-      <circle class="ring" cx="1118" cy="368" r="24" fill="none" stroke="#00e5ff" stroke-width="3" stroke-dasharray="40 112" stroke-linecap="round"/>
-      <circle class="ring2" cx="1118" cy="368" r="15" fill="none" stroke="#ff4ecd" stroke-width="3" stroke-dasharray="22 72" stroke-linecap="round"/>
-      <circle class="core" cx="1118" cy="368" r="5" fill="#7c5cff"/>
-      <text x="1090" y="408" class="mono" font-size="11" fill="#6e7681">@keyframes</text>
-    </g>
   </g>
 
   <!-- traveling light border -->
