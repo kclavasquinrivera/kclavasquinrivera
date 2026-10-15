@@ -39,7 +39,7 @@
   <text x="60" y="120" class="mono" font-size="20" fill="#7ee787">$ whoami</text>
   <text x="60" y="190" class="sans" font-size="64" font-weight="800" fill="url(#accent)">Kevin Clavasquin</text>
   <text x="60" y="238" class="sans" font-size="26" fill="#c9d1d9">Software Developer · CS Student @ MSOE</text>
-  <text x="60" y="280" class="mono" font-size="18" fill="#8b949e">React  ·  PHP  ·  C++/Qt  ·  Java  ·  Python + AI</text>
+  <text x="60" y="280" class="mono" font-size="18" fill="#8b949e">React  ·  PHP  ·  C++/Qt  ·  Java  ·  Python</text>
   <rect class="cursor" x="640" y="262" width="11" height="22" fill="#58a6ff"/>
 
   <!-- floating code glyphs -->
