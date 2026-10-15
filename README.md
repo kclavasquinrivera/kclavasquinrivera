@@ -3,7 +3,6 @@
 <img src="banner.svg" width="100%"/>
 
 </div>
-
 ---
 
 ## 👋 About me
