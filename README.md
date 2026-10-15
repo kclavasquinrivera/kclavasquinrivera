@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kclavasquinrivera/kclavasquinrivera/main/assets/banner.svg" alt="Kevin Clavasquin - Software Developer, CS student at MSOE" width="100%"/>
+<img src="banner.svg" alt="Kevin Clavasquin - Software Developer, CS student at MSOE" width="100%"/>
 
 <br/>
 
